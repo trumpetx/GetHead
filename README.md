@@ -3,6 +3,8 @@ I wrote this addon before realizing that [PizzaWorldBuffs](https://github.com/Pi
 
 https://github.com/Pizzahawaiii/PizzaWorldBuffs.git
 
+note: PWB requires that you set the logout with each session and it does not work with the Zandalar buff.  If you need either of those features (always on logout or ZG buff) then this addon might be useful insteaed of or in addition to PWB.
+
 # Overview
 This addon will log out a character if they receive a "Fresh" Rallying Cry of the Dragonslayer or Spirit of Zandalar buff to assist in optimal AFK world buff acquisition uptime.
 
